@@ -1,0 +1,4 @@
+28	07	23	59	102	Aeromexico	TIJ	CUL	T5
+25	06	12	02	117	Aeromexico	CDM	CHI	T2
+22	02	18	25	325	Aeromexico	QRT	MTY	T8
+03	06	17	39	279	Aeromexico	YUC	PUE	T1
